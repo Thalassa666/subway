@@ -527,7 +527,7 @@ img {
 }
 
 .order-section {
-  background: url(img/form-bg.jpg) top center, #797979;
+  background: url(./img/form-bg.jpg) top center, #797979;
   background-repeat: no-repeat;
   background-size: cover;
   color: #FFFFFF;
