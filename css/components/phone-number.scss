@@ -3,6 +3,11 @@
     text-decoration: none;
     display: flex;
     align-items: center;
+
+    &:hover {
+			color: rgb(83, 189, 255);
+			transition: 1s;
+	}
 }
 
 .phone-number__icon-elem {
