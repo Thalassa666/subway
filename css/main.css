@@ -75,7 +75,7 @@ img {
 }
 
 .hero {
-  background: url("../../img/welcome__bg.png") top center/cover no-repeat;
+  background: url(../../img/welcome-bg.png) top center/cover no-repeat;
   height: 100vh;
   min-height: 650px;
   color: white;
@@ -272,7 +272,7 @@ img {
   position: relative;
 }
 .benefits__item:before {
-  content: url("../../img/why-shape.png");
+  content: url(../../img/why-shape.png);
   position: absolute;
   top: 18%;
   right: 0;
@@ -489,7 +489,7 @@ img {
   border-radius: 0;
 }
 .radio--checkbox .radio__visible:before {
-  background: url("../../img/checkbox-icon.png") center center no-repeat;
+  background: url(../../img/checkbox-icon.png) center center no-repeat;
 }
 
 .radio__elem {
@@ -527,7 +527,7 @@ img {
 }
 
 .order-section {
-  background: url("../../img/jeremy-bishop-cmt3JdS5MC4-unsplash-1024x683 (1).jpg") top center, #797979;
+  background: url(../../img/form-bg.jpg) top center, #797979;
   background-repeat: no-repeat;
   background-size: cover;
   color: #FFFFFF;
